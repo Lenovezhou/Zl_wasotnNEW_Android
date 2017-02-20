@@ -1,0 +1,6 @@
+打包AssetBundle步骤：
+	1、把FBX模型放入Assets->Assetbundle->Model文件夹下
+	2、把模型拖入到场景，把模型的第一个子物体改为骨骼，第二个子物体为螺钉，第三个为反转；把模型拖入到Assets->Assetbundle->Prefab下
+	3、选中Prefab目录下的一个模型，点击菜单栏的Custom Editor 的 Build SingleOcject AssetBundles ，把模型打包成AssetBundle；打包好的AssetBundle在Assets->StreamingAssets
+	4、把打包好的AssetBundle改成英文名字，名字中不能包含中文
+	5、把名字复制到相对应的Data.Xml里；

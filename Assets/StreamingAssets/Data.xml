@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<INFOS Teliphonenumber="0519-88888999">
+  <G ID="0">
+    <module ID="01"	name="锁定板系统"	ismodle="0" modle="" englishname="Locking Plate System">
+      <sub name="微型系列"	ismodle="0" modle="" englishname="Wrist System">
+        <product name="FAST微型锁定接骨板10731L"	ismodle="0"   modle="Bundle/1101.assetbundle"	texture="Icon/Minimap/1073101.png"	description="Icon/1101.png"/>
+        <product name="FAST微型锁定接骨板10731Y"	ismodle="0"	modle="Bundle/1102.assetbundle"	texture="Icon/Minimap/1073102.png"	description="Icon/1102.png"/>
+        <product name="FAST微型锁定接骨板10731直"	ismodle="0"	modle="Bundle/1103.assetbundle"	texture="Icon/Minimap/1073103.png"	description="Icon/1103.png"/>
+        <product name="1.5微T型锁定加压接骨板（头3孔）"	ismodle="0"	modle="Bundle/1104.assetbundle"	texture="Icon/Minimap/1073104.png"	description="Icon/1104.png"/>
+        <product name="1.5微Y型锁定加压接骨板"	ismodle="0"	modle="Bundle/1105.assetbundle"	texture="Icon/Minimap/1105.png"	description="Icon/1105.png"/>
+		<product name="1.5微Y型锁定接骨板I型"	ismodle="0"	modle="Bundle/1106.assetbundle"	texture="Icon/Minimap/1073106.png"	description="Icon/1106.png"/>
+        <product name="1.5微型重建锁定接骨板II型"	ismodle="0"	modle="Bundle/1107.assetbundle"	texture="Icon/Minimap/1073107.png"	description="Icon/1107.png"/>
+        <product name="2.0微Y型锁定加压接骨板"	ismodle="0"	modle="Bundle/1112.assetbundle"	texture="Icon/Minimap/1073112.png"	description="Icon/1112.png"/>
+        <product name="2.0微型重建锁定加压接骨板"	ismodle="0"	modle="Bundle/1117.assetbundle"	texture="Icon/Minimap/1073117.png"	description="Icon/1117.png"/>
+        <product name="2.0微型重建加压接骨板"	ismodle="0"	modle="Bundle/1116.assetbundle"	texture="Icon/Minimap/1073116.png"	description="Icon/1116.png"/>
+        <product name="2.0微T型锁定接骨板（头3孔）"	ismodle="0"	modle="Bundle/1111.assetbundle"	texture="Icon/Minimap/1073111.png"	description="Icon/1111.png"/>
+        <product name="2.0微T型锁定加压接骨板（头2孔）"	ismodle="0"	modle="Bundle/1110.assetbundle"	texture="Icon/Minimap/1073110.png"	description="Icon/1110.png"/>
+        <product name="2.0微Y型锁定加压接骨板I型"	ismodle="0"	modle="Bundle/1114.assetbundle"	texture="Icon/Minimap/1073114.png"	description="Icon/1114.png"/>
+        <product name="2.0微Y型锁定加压接骨板II型"	ismodle="0"	modle="Bundle/1113.assetbundle"	texture="Icon/Minimap/1073113.png"	description="Icon/1113.png"/>
+        <product name="2.0微直型锁定加压接骨板I型"	ismodle="0"	modle="Bundle/1118.assetbundle"	texture="Icon/Minimap/1073118.png"	description="Icon/1118.png"/>
+        <product name="2.0矩形板"	ismodle="0"	modle="Bundle/1109.assetbundle"	texture="Icon/Minimap/1073109.png"	description="Icon/1109.png"/>
+        <product name="2.4微T型锁定加压接骨板（头2孔）"	ismodle="0"	modle="Bundle/1120.assetbundle"	texture="Icon/Minimap/1073120.png"	description="Icon/1120.png"/>
+        <product name="2.4微T型锁定加压接骨板（头3孔）"	ismodle="0"	modle="Bundle/1121.assetbundle"	texture="Icon/Minimap/1073121.png"	description="Icon/1121.png"/>
+        <product name="2.4微Y型锁定加压接骨板I型"	ismodle="0"	modle="Bundle/1123.assetbundle"	texture="Icon/Minimap/1073123.png"	description="Icon/1123.png"/>
+        <product name="2.4微型重建锁定加压接骨板"	ismodle="0"	modle="Bundle/1124.assetbundle"	texture="Icon/Minimap/1073124.png"	description="Icon/1124.png"/>
+        <product name="2.4微直型锁定加压接骨板I型"	ismodle="0"	modle="Bundle/1125.assetbundle"	texture="Icon/Minimap/1073125.png"	description="Icon/1125.png"/>
+        <product name="2.4微Y型锁定加压接骨板"	ismodle="0"	modle="Bundle/1122.assetbundle"	texture="Icon/Minimap/1073122.png"	description="Icon/1122.png"/>
+        <product name="微直型锁定加压接骨板I型" ismodle="0"	modle="Bundle/1108.assetbundle"	texture="Icon/Minimap/1073108.png"	description="Icon/1108.png"/>
+      </sub>
+      <sub name="尺桡骨"	ismodle="0" modle="" englishname="前5个只有名称和信息Ulna&amp;Radius">
+        <product name="尺、桡骨锁定接骨板"	ismodle="0"	modle="Bundle/1201.assetbundle"	texture="Icon/Minimap/30701.png"	description="Icon/10.png"/>
+        <product name="桡骨远端掌侧锁定接骨板"	ismodle="0"	modle="Bundle/1210.assetbundle"	texture="Icon/Minimap/107092.png"	description="Icon/1210.png"/>
+        <product name="桡骨远端掌内侧锁定接骨板III"	ismodle="0"	modle="Bundle/1202.assetbundle"	texture="Icon/Minimap/107093.png"	description="Icon/1202.png"/>
+        <product name="尺骨远端锁定接骨板（勾型）"	ismodle="0"	modle="Bundle/1119.assetbundle"	texture="Icon/Minimap/1119.png"	description="Icon/1119.png"/>
+        <product name="桡骨远端背侧锁定板斜L型"	ismodle="0"   modle="Bundle/1206.assetbundle"	texture="Icon/Minimap/107097.png"	description="Icon/1206.png"/>
+        <product name="桡骨远端背侧锁定板L型"	ismodle="0"   modle="Bundle/1203.assetbundle"	texture="Icon/Minimap/107094.png"	description="Icon/1203.png"/>
+        <product name="桡骨远端背侧锁定板T型"	ismodle="0"   modle="Bundle/1204.assetbundle"	texture="Icon/Minimap/107095.png"	description="Icon/1204.png"/>
+        <product name="桡骨远端背侧锁定板小L型"	ismodle="0"   modle="Bundle/1205.assetbundle"	texture="Icon/Minimap/107096.png"	description="Icon/1205.png"/>
+        <product name="桡骨远端背侧锁定接骨板（桡侧）"	ismodle="0"   modle="Bundle/1207.assetbundle"	texture="Icon/Minimap/107098.png"	description="Icon/1207.png"/>
+        <product name="桡骨远端掌侧柱锁定接骨板"	ismodle="0"   modle="Bundle/1212.assetbundle"	texture="Icon/Minimap/107101.png"	description="Icon/1212.png"/>
+        <product name="桡骨远端掌侧关节外锁定接骨板（头5孔）"	ismodle="0"   modle="Bundle/1209.assetbundle"	texture="Icon/Minimap/107100.png"	description="Icon/1209.png"/>
+        <product name="桡骨远端掌侧关节外锁定接骨板(头4孔)"	ismodle="0"   modle="Bundle/1208.assetbundle"	texture="Icon/Minimap/107099.png"	description="Icon/1208.png"/>
+      </sub>
+      <sub name="肱骨"	ismodle="0" modle="" englishname="只有名字，个数对应Humerus">
+        <product name="肱骨锁定接骨板"	ismodle="0"   modle="Bundle/1301.assetbundle"	texture="Icon/Minimap/30070.png"	description="Icon/1301.png"/>
+        <product name="肱骨近端锁定接骨板II型"	ismodle="0"   modle="Bundle/1302.assetbundle"	texture="Icon/Minimap/30708.png"	description="Icon/5.png"/>
+        <product name="肱骨近端锁定接骨板III型"	ismodle="0"   modle="Bundle/1303.assetbundle"	texture="Icon/Minimap/30735.png"	description="Icon/6.png"/>
+        <product name="肱骨远端内侧锁定接骨板"	ismodle="0"   modle="Bundle/1304.assetbundle"	texture="Icon/Minimap/30718.png"	description="Icon/7.png"/>
+        <product name="肱骨远端背外侧锁定接骨板I型"	ismodle="0"   modle="Bundle/1305.assetbundle"	texture="Icon/Minimap/307191.png"	description="Icon/8.png"/>
+        <product name="肱骨远端背外侧锁定接骨板II型"	ismodle="0"   modle="Bundle/1306.assetbundle"	texture="Icon/Minimap/307192.png"	description="Icon/9.png"/>
+      </sub>
+      <sub name="锁骨"	ismodle="0" modle="" englishname="Clavicle">
+        <product name="锁骨S型锁定接骨板II型"	ismodle="0"   modle="Bundle/1401.assetbundle"	texture="Icon/Minimap/10732.png"	description="Icon/1.png"/>
+        <product name="锁骨肩峰端锁定接骨板"	ismodle="0"   modle="Bundle/1402.assetbundle"	texture="Icon/Minimap/10733.png"	description="Icon/2.png"/>
+        <product name="锁骨钩锁定接骨板"	ismodle="0"   modle="Bundle/1403.assetbundle"	texture="Icon/Minimap/10734.png"	description="Icon/3.png"/>
+      </sub>
+      <sub name="骨盆"	ismodle="0" modle="" englishname="Pelvis">
+        <product name="弧形重建锁定接骨板"	ismodle="0"   modle="Bundle/1501.assetbundle"	texture="Icon/Minimap/10743.png"	description="Icon/53.png"/>
+        <product name="DS蝶形骶髂骨锁定接骨板"	ismodle="0"   modle="Bundle/1502.assetbundle"	texture="Icon/Minimap/107461.png"	description="Icon/54.png"/>
+        <product name="前后柱联合锁定接骨板"	ismodle="0"   modle="Bundle/1503.assetbundle"	texture="Icon/Minimap/107462.png"	description="Icon/55.png"/>
+      </sub>
+      <sub name="股骨"	ismodle="0" modle="" englishname="只缺模型Pelvis">
+        <product name="股骨近端外侧锁定接骨板I型"	ismodle="0"   modle="Bundle/1601.assetbundle"	texture="Icon/Minimap/30721.png"	description="Icon/56.png"/>
+        <product name="股骨远端外侧锁定接骨板"	ismodle="0"   modle="Bundle/1603.assetbundle"	texture="Icon/Minimap/30722.png"	description="Icon/58.png"/>
+        <product name="股骨近端外侧锁定接骨板II型"	ismodle="0"   modle="Bundle/1602.assetbundle"	texture="Icon/Minimap/1602.png"	description="Icon/57.png"/>
+        <product name="DHS鹅头钉锁定接骨板"	ismodle="0"   modle="Bundle/1604.assetbundle"	texture="Icon/Minimap/1604.png"	description="Icon/59.png"/>
+        <product name="DCS鹅头钉锁定接骨板"	ismodle="0"   modle="Bundle/1605.assetbundle"	texture="Icon/Minimap/1605.png"	description="Icon/60.png"/>
+      </sub>
+      <sub name="胫腓骨"	ismodle="0" modle="" englishname="缺模型缺产品信息Tibia&amp;Fibula">
+        <product name="5.0mm胫骨近端外侧锁定接骨板"	ismodle="0"   modle="Bundle/1701.assetbundle"	texture="Icon/Minimap/1701.png"	description="Icon/61.png"/>
+        <product name="3.5mm胫骨近端外侧（围关节）锁定接骨板II型"	ismodle="0"   modle="Bundle/1702.assetbundle"	texture="Icon/Minimap/1702.png"	description="Icon/62.png"/>
+        <product name="胫骨远端内侧锁定接骨板II型"	ismodle="0"   modle="Bundle/1703.assetbundle"	texture="Icon/Minimap/30724.png"	description="Icon/63.png"/>
+        <product name="3.5mm胫骨远端外侧（围关节）锁定接骨板"	ismodle="0"   modle="Bundle/1704.assetbundle"	texture="Icon/Minimap/1704.png"	description="Icon/64.png"/>
+        <product name="5.0mm胫骨远端外侧锁定接骨板"	ismodle="0"   modle="Bundle/1705.assetbundle"	texture="Icon/Minimap/1705.png"	description="Icon/1705.png"/>
+        <product name="胫骨远端后侧锁定接骨板（YAP型）"	ismodle="0"   modle="Bundle/1706.assetbundle"	texture="Icon/Minimap/107252.png"	description="Icon/66.png"/>
+        <product name="胫骨远端前侧锁定板（YAP型）"	ismodle="0"   modle="Bundle/1707.assetbundle"	texture="Icon/Minimap/1707.png"	description="Icon/67.png"/>
+        <product name="腓骨远端后外侧锁定接骨板"	ismodle="0"   modle="Bundle/1709.assetbundle"	texture="Icon/Minimap/1709.png"	description="Icon/71.png"/>
+        <product name="5mmL型锁定接骨板IV型"	ismodle="0"   modle="Bundle/1710.assetbundle"	texture="Icon/Minimap/1710.png"	description="Icon/1710.png"/>
+        <product name="3.5mmL型锁定接骨板III型"	ismodle="0"   modle="Bundle/1711.assetbundle"	texture="Icon/Minimap/1711.png"	description="Icon/1711.png"/>
+        <product name="5mmT型锁定接骨板IV型"	ismodle="0"   modle="Bundle/1712.assetbundle"	texture="Icon/Minimap/307404.png"	description="Icon/1712.png"/>
+        <product name="3.5mmT型锁定接骨板III型"	ismodle="0"   modle="Bundle/1713.assetbundle"	texture="Icon/Minimap/307405.png"	description="Icon/1713.png"/>
+        <product name="胫骨近端后内侧锁定板"	ismodle="0"   modle="Bundle/1714.assetbundle"	texture="Icon/Minimap/307406.png"	description="Icon/1714.png"/>
+        <product name="胫骨远端内侧锁定板I"	ismodle="0"   modle="Bundle/1715.assetbundle"	texture="Icon/Minimap/307407.png"	description="Icon/1715.png"/>
+        <product name="腓骨远端外侧锁定接骨板"	ismodle="0"   modle="Bundle/1708.assetbundle"	texture="Icon/Minimap/1708.png"	description="Icon/70.png"/>
+      </sub>
+      <sub name="足踝"	ismodle="0" modle="" englishname="">
+        <product name="跟骨锁定接骨板"	ismodle="0"   modle="Bundle/1801.assetbundle"	texture="Icon/Minimap/1801.png"	description="Icon/78.png"/>
+        <product name="跖趾关节融合板I型"	ismodle="0"   modle="Bundle/1802.assetbundle"	texture="Icon/Minimap/1802.png"	description="Icon/80.png"/>
+        <product name="第一跖骨远端截骨钢板"	ismodle="0"   modle="Bundle/1803.assetbundle"	texture="Icon/Minimap/1803.png"	description="Icon/79.png"/>
+        <product name="跖趾关节融合板II型"	ismodle="0"   modle="Bundle/1804.assetbundle"	texture="Icon/Minimap/1804.png"	description="Icon/81.png"/>
+        <product name="中空形跖骨基底截骨板"	ismodle="0"   modle="Bundle/1805.assetbundle"	texture="Icon/Minimap/1805.png"	description="Icon/82.png"/>
+        <product name="中空形骰骨截骨矫形板"	ismodle="0"   modle="Bundle/1806.assetbundle"	texture="Icon/Minimap/1806.png"	description="Icon/83.png"/>
+        <product name="跖楔关节背侧板"	ismodle="0"   modle="Bundle/1807.assetbundle"	texture="Icon/Minimap/1807.png"	description="Icon/84.png"/>
+        <product name="第一跖楔关节内侧板"	ismodle="0"   modle="Bundle/1808.assetbundle"	texture="Icon/Minimap/1808.png"	description="Icon/85.png"/>
+        <product name="跨舟楔第二跖楔关节背侧板"	ismodle="0"   modle="Bundle/1809.assetbundle"	texture="Icon/Minimap/1809.png"	description="Icon/86.png"/>
+        <product name="lisfranc桥式融合板"	ismodle="0"   modle="Bundle/1810.assetbundle"	texture="Icon/Minimap/1810.png"	description="Icon/87.png"/>
+        <product name="Muller-Weiss板"	ismodle="0"   modle="Bundle/1811.assetbundle"	texture="Icon/Minimap/1811.png"	description="Icon/88.png"/>
+        <product name="距舟融合板"	ismodle="0"   modle="Bundle/1812.assetbundle"	texture="Icon/Minimap/1812.png"	description="Icon/89.png"/>
+        <product name="中空形跟骨截骨板"	ismodle="0"   modle="Bundle/1813.assetbundle"	texture="Icon/Minimap/1813.png"	description="Icon/90.png"/>
+        <product name="中空形胫骨截骨矫形板"	ismodle="0"   modle="Bundle/1814.assetbundle"	texture="Icon/Minimap/1814.png"	description="Icon/91.png"/>
+        <product name="前踝关节融合板"	ismodle="0"   modle="Bundle/1815.assetbundle"	texture="Icon/Minimap/1815.png"	description="Icon/92.png"/>
+      </sub>
+    </module>
+    <module ID="02"	name="髓内钉系统"	ismodle="0" modle="" englishname="Intramedullary Nail System">
+	  <sub name="肱骨髓内钉增强型"	ismodle="0" modle="AboutTexture/1909.jpg" englishname="">
+		<product name="肱骨髓内钉增强型"	ismodle="0"   modle="Bundle/1909.assetbundle"	texture="Icon/Minimap/1909.jpg"	description="Icon/1909.png"/>
+	  </sub>
+	  <sub name="股骨髓内钉（X系列专家级）"	ismodle="0" modle="AboutTexture/1905.jpg" englishname="">
+		<product name="股骨髓内钉（标准型）"	ismodle="0"   modle="Bundle/1905.assetbundle"	texture="Icon/Minimap/1905.jpg"	description="Icon/1905.png"/>
+		<product name="股骨髓内钉（重建型）"	ismodle="0"   modle="Bundle/1911.assetbundle"	texture="Icon/Minimap/1911.jpg"	description="Icon/1905.png"/>
+	  </sub>
+      <sub name="伽玛型髓内钉II型"	ismodle="0" modle="" englishname="">
+	    <product name="伽玛型髓内钉II型"	ismodle="0"   modle="Bundle/1902.assetbundle"	texture="Icon/Minimap/1902.jpg"	description="Icon/1902.png"/>
+	  </sub>
+      <sub name="Union伽玛型髓内钉"	ismodle="0" modle="AboutTexture/1903.jpg" englishname="">
+		<product name="新型伽玛髓内钉（组合型）"	ismodle="0"   modle="Bundle/1903.assetbundle"	texture="Icon/Minimap/1903.jpg"	description="Icon/1903.png"/>
+		<product name="新型伽玛髓内钉（标准型）"	ismodle="0"   modle="Bundle/1910.assetbundle"	texture="Icon/Minimap/1910.jpg"	description="Icon/1903.png"/>
+	  </sub>
+	  <sub name="股骨逆行髓内钉（亚洲型）"	ismodle="0" modle="AboutTexture/1912.jpg" englishname="">
+		<product name="股骨逆行髓内钉（亚洲型）"	ismodle="0"   modle="Bundle/1912.assetbundle"	texture="Icon/Minimap/1912.jpg"	description="Icon/1912.png"/>
+	  </sub>
+	  <sub name="胫骨髓内钉（X系列专家级）"	ismodle="0" modle="AboutTexture/1906.jpg" englishname="">
+		<product name="胫骨髓内钉（X系列专家级）"	ismodle="0"   modle="Bundle/1906.assetbundle"	texture="Icon/Minimap/1906.jpg"	description="Icon/1906.png"/>
+	  </sub>
+	  <sub name="胫骨髓内钉（髌上型）"	ismodle="0" modle="AboutTexture/1904.jpg" englishname="">
+		<product name="胫骨髓内钉（髌上型）"	ismodle="0"   modle="Bundle/1913.assetbundle"	texture="Icon/Minimap/1913.jpg"	description="Icon/1913.png"/>
+	  </sub>
+      <sub name="通用逆行髓内钉（腓骨钉）"	ismodle="0" modle="AboutTexture/1907.jpg" englishname="">
+		<product name="通用逆行髓内钉（腓骨钉）"	ismodle="0"   modle="Bundle/1907.assetbundle"	texture="Icon/Minimap/1907.jpg"	description="Icon/1907.png"/>
+	  </sub>
+      <sub name="通用逆行髓内钉（弹性钉）"	ismodle="0" modle="AboutTexture/1908.jpg" englishname="">
+		<product name="通用逆行髓内钉（弹性钉）"	ismodle="0"   modle="Bundle/1908.assetbundle"	texture="Icon/Minimap/1908.jpg"	description="Icon/1908.png"/>
+	  </sub>
+	  <sub name="芯钻髓内钉系统"	ismodle="1" modle="AboutTexture/1904.jpg" englishname=""/>
+    </module>
+    <module ID="03"	name="外固定系统"	ismodle="0" modle="" englishname="External Fixator System">
+      <sub name="SK系列"	ismodle="1" modle="AboutTexture/2001.jpg" englishname="">
+        <product name="SK系列"	ismodle="1"	modle="AboutTexture/2001.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="OF系列"	ismodle="1" modle="AboutTexture/2002.jpg" englishname="">
+        <product name="OF系列"	ismodle="1"	modle="AboutTexture/2002.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="04"	name="脊柱系统"	ismodle="0" modle="" englishname="Thoracic&amp;Lumbar Fixation System">
+      <sub name ="颈椎内固定" ismodle="0" modle="" englishname="">
+        <product name="Walen颈椎前路板"	ismodle="1"	modle="AboutTexture/2105.jpg"	texture="Icon/Minimap/2105.png"	description="Icon/huasen_logo.png"/>
+        <product name="Neulen成型板"	ismodle="1"	modle="AboutTexture/2106.jpg"	texture="Icon/Minimap/2106.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+	  <sub name ="胸腰椎内固定" ismodle="0" modle="" englishname="">
+	    <product name="Master 7"	ismodle="1"	modle="AboutTexture/2101.jpg"	texture="Icon/Minimap/2101.png"	description="Icon/huasen_logo.png"/>
+        <product name="Master 9"	ismodle="1"	modle="AboutTexture/2102.jpg"	texture="Icon/Minimap/2102.png"	description="Icon/huasen_logo.png"/>
+        <product name="Master 10"	ismodle="1"	modle="AboutTexture/2103.jpg"	texture="Icon/Minimap/2103.png"	description="Icon/huasen_logo.png"/>
+        <product name="A9胸腰椎前路系统"	ismodle="1"	modle="AboutTexture/2104.jpg"	texture="Icon/Minimap/2104.png"	description="Icon/huasen_logo.png"/>
+
+	  </sub>
+	  <sub name ="融合器" ismodle="0" modle="" englishname="">
+	    <product name="椎间融合器（腰椎）"	ismodle="1"	modle="AboutTexture/2107.jpg"	texture="Icon/Minimap/2107.png"	description="Icon/huasen_logo.png"/>
+        <product name="椎间融合器（颈椎）"	ismodle="1"	modle="AboutTexture/2108.jpg"	texture="Icon/Minimap/2108.png"	description="Icon/huasen_logo.png"/>
+	  </sub>
+    </module>
+  </G>
+  <X ID="1">
+    <module ID="10"	name="肋骨板"	ismodle="1" modle="AboutTexture/2201.jpg" englishname="Patented Rib Plate System">
+      <sub name ="肋骨板" ismodle="0" modle="" englishname="">
+        <product name="肋骨板"	ismodle="1"	modle="AboutTexture/2201.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="11"	name="胸骨板"	ismodle="1" modle="AboutTexture/2202.jpg" englishname="Sternal Fixation System">
+      <sub name ="胸骨板" ismodle="0" modle="" englishname="">
+        <product name="胸骨板"	ismodle="1"	modle="AboutTexture/2202.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="12"	name="胸腔牵开器"	ismodle="1" modle="AboutTexture/2203.jpg" englishname="Retractor System">
+      <sub name ="胸腔牵开器" ismodle="0" modle="" englishname="">
+        <product name="胸腔牵开器"	ismodle="1"	modle="AboutTexture/2203.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="13"	name="其他"	ismodle="1" modle="AboutTexture/2204.jpg" englishname="Retractor System">
+      <sub name ="其他" ismodle="0" modle="" englishname="">
+        <product name="其他"	ismodle="1"	modle="AboutTexture/2204.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+  </X>
+  <W ID="2">
+    <module ID="20"	name="一次性使用腔镜吻合器系列"	ismodle="0" modle="" englishname="Endoscopic stapler">
+      <sub name="ECS系列腔镜吻合器及钉仓组件（强生款）"	ismodle="1" modle="AboutTexture/2301.jpg" englishname="">
+        <product name="ECS系列腔镜吻合器及钉仓组件（强生款）"	ismodle="1"	modle="AboutTexture/2301.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="HSC系列腔镜吻合器及钉仓组件（美外款）"	ismodle="1" modle="AboutTexture/2302.jpg" englishname="">
+        <product name="HSC系列腔镜吻合器及钉仓组件（美外款）"	ismodle="1"	modle="AboutTexture/2302.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="21"	name="一次性使用管型消化道吻合器系列"	ismodle="0" modle="" englishname="Three Rows Stapler">
+      <sub name="ⅢROWS系列三排钉管形吻合器"	ismodle="1" modle="AboutTexture/2303.jpg" englishname="">
+        <product name="ⅢROWS系列三排钉管形吻合器"	ismodle="1"	modle="AboutTexture/2303.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="WHY系列管形吻合器"	ismodle="1" modle="AboutTexture/2304.jpg" englishname="">
+        <product name="WHY系列管形吻合器"	ismodle="1"	modle="AboutTexture/2304.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="22"	name="一次性使用直线型吻合器系列"	ismodle="0" modle="" englishname="Circular Stapler">
+      <sub name="ⅢROWS系列三排钉自动直线吻合器"	ismodle="1" modle="AboutTexture/2305.jpg" englishname="">
+        <product name="ⅢROWS系列三排钉自动直线吻合器"	ismodle="1"	modle="AboutTexture/2305.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="ZHY系列自动直线吻合器"	ismodle="1" modle="AboutTexture/2306.jpg" englishname="">
+        <product name="ZHY系列自动直线吻合器"	ismodle="1"	modle="AboutTexture/2306.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="FHY系列直线吻合器"	ismodle="1" modle="AboutTexture/2307.jpg" englishname="">
+        <product name="FHY系列直线吻合器"	ismodle="1"	modle="AboutTexture/2307.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="23"	name="一次性肛使用肠吻合器（PPH）系列"	ismodle="0" modle="" englishname="PPH Stapler">
+      <sub name="ⅢROWS系列三排钉肛肠吻合器"	ismodle="1" modle="AboutTexture/2308.jpg" englishname="">
+        <product name="ⅢROWS系列三排钉肛肠吻合器"	ismodle="1"	modle="AboutTexture/2308.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="GLT系列透明钉仓型肛肠吻合器"	ismodle="1" modle="AboutTexture/2309.jpg" englishname="">
+        <product name="GLT系列透明钉仓型肛肠吻合器"	ismodle="1"	modle="AboutTexture/2309.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="GHY系列肛肠吻合器"	ismodle="1" modle="AboutTexture/2310.jpg" englishname="">
+        <product name="GHY系列肛肠吻合器"	ismodle="1"	modle="AboutTexture/2310.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="HQY30系列弧形切割吻合器（小凯途）"	ismodle="1" modle="AboutTexture/2311.jpg" englishname="">
+        <product name="HQY30系列弧形切割吻合器（小凯途）"	ismodle="1"	modle="AboutTexture/2311.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="GMJ系列肛门镜"	ismodle="1" modle="AboutTexture/2312.jpg" englishname="">
+        <product name="GMJ系列肛门镜"	ismodle="1"	modle="AboutTexture/2312.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="24"	name="一次性使用切割吻合器系列"	ismodle="0" modle="" englishname="Linear Cutter">
+      <sub name="QHS系列直线切割吻合器（双侧推击）"	ismodle="1" modle="AboutTexture/2313.jpg" englishname="">
+        <product name="QHS系列直线切割吻合器（双侧推击）"	ismodle="1"	modle="AboutTexture/2313.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="QHD系列直线切割吻合器（单侧推击）"	ismodle="1" modle="AboutTexture/2314.jpg" englishname="">
+        <product name="QHD系列直线切割吻合器（单侧推击）"	ismodle="1"	modle="AboutTexture/2314.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="HQY45系列弧形切割吻合器（大凯途）"	ismodle="1" modle="AboutTexture/2315.jpg" englishname="">
+        <product name="HQY45系列弧形切割吻合器（大凯途）"	ismodle="1"	modle="AboutTexture/2315.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="25"	name="可重复使用吻合器系列"	ismodle="0" modle="" englishname="Curved Stapler">
+      <sub name="WHD系列管形吻合器"	ismodle="1" modle="AboutTexture/2316.jpg" englishname="">
+        <product name="WHD系列管形吻合器"	ismodle="1"	modle="AboutTexture/2316.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="GHD系列肛肠吻合器"	ismodle="1" modle="AboutTexture/2317.jpg" englishname="">
+        <product name="GHD系列肛肠吻合器"	ismodle="1"	modle="AboutTexture/2317.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="FHD系列直线吻合器"	ismodle="1" modle="AboutTexture/2318.jpg" englishname="">
+        <product name="FHD系列直线吻合器"	ismodle="1"	modle="AboutTexture/2318.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+    <module ID="26"	name="其他配套产品系列"	ismodle="0" modle="" englishname="Linear Stapler">
+      <sub name="一次性使用穿刺器"	ismodle="1" modle="AboutTexture/2319.jpg" englishname="">
+        <product name="一次性使用穿刺器"	ismodle="1"	modle="AboutTexture/2319.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="一次性使用荷包吻合器"	ismodle="1" modle="AboutTexture/2320.jpg" englishname="">
+        <product name="一次性使用荷包吻合器"	ismodle="1"	modle="AboutTexture/2320.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="荷包钳"	ismodle="1" modle="AboutTexture/2321.jpg" englishname="">
+        <product name="荷包钳"	ismodle="1"	modle="AboutTexture/2321.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+      <sub name="对合钳"	ismodle="1" modle="AboutTexture/2322.jpg" englishname="">
+        <product name="对合钳"	ismodle="1"	modle="AboutTexture/2322.jpg"	texture="Icon/Icon_logo.png"	description="Icon/huasen_logo.png"/>
+      </sub>
+    </module>
+  </W>
+</INFOS>

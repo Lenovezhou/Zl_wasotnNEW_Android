@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 3e08d8ff82f78e249915633cc1761ffa
+timeCreated: 1483600052
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: gugge
+    100002: gugge1
+    100004: suineiding
+    100006: suineiding_MeshPart0
+    100008: suineiding_MeshPart1
+    100010: suineiding_MeshPart2
+    100012: suineiding_MeshPart3
+    100014: suineiding_MeshPart4
+    100016: //RootNode
+    100018: jinggusuineiding:group2
+    100020: jinggusuineiding:gugge
+    100022: jinggusuineiding:jinggusuineiding:Mesh
+    100024: jinggusuineiding:jinggusuineiding:Mesh5
+    100026: jinggusuineiding:jinggusuineiding:object_1
+    100028: jinggusuineiding:jinggusuineiding:object_5
+    100030: jinggusuineiding:jinggusuineiding:object_6
+    100032: jinggusuineiding:jinggusuineiding:object_7
+    100034: jinggusuineiding:jinggusuineiding:object_8
+    100036: jinggusuineiding:object_1
+    100038: jinggusuineiding:polySurface1
+    100040: jinggusuineiding:polySurface2
+    100042: object_1
+    400000: gugge
+    400002: gugge1
+    400004: suineiding
+    400006: suineiding_MeshPart0
+    400008: suineiding_MeshPart1
+    400010: suineiding_MeshPart2
+    400012: suineiding_MeshPart3
+    400014: suineiding_MeshPart4
+    400016: //RootNode
+    400018: jinggusuineiding:group2
+    400020: jinggusuineiding:gugge
+    400022: jinggusuineiding:jinggusuineiding:Mesh
+    400024: jinggusuineiding:jinggusuineiding:Mesh5
+    400026: jinggusuineiding:jinggusuineiding:object_1
+    400028: jinggusuineiding:jinggusuineiding:object_5
+    400030: jinggusuineiding:jinggusuineiding:object_6
+    400032: jinggusuineiding:jinggusuineiding:object_7
+    400034: jinggusuineiding:jinggusuineiding:object_8
+    400036: jinggusuineiding:object_1
+    400038: jinggusuineiding:polySurface1
+    400040: jinggusuineiding:polySurface2
+    400042: object_1
+    2300000: gugge
+    2300002: gugge1
+    2300004: suineiding_MeshPart0
+    2300006: suineiding_MeshPart1
+    2300008: suineiding_MeshPart2
+    2300010: suineiding_MeshPart3
+    2300012: suineiding_MeshPart4
+    2300014: jinggusuineiding:gugge
+    2300016: jinggusuineiding:jinggusuineiding:Mesh
+    2300018: jinggusuineiding:jinggusuineiding:Mesh5
+    2300020: jinggusuineiding:jinggusuineiding:object_1
+    2300022: jinggusuineiding:jinggusuineiding:object_5
+    2300024: jinggusuineiding:jinggusuineiding:object_6
+    2300026: jinggusuineiding:jinggusuineiding:object_7
+    2300028: jinggusuineiding:jinggusuineiding:object_8
+    2300030: jinggusuineiding:object_1
+    2300032: jinggusuineiding:polySurface1
+    2300034: jinggusuineiding:polySurface2
+    2300036: object_1
+    3300000: gugge
+    3300002: gugge1
+    3300004: suineiding_MeshPart0
+    3300006: suineiding_MeshPart1
+    3300008: suineiding_MeshPart2
+    3300010: suineiding_MeshPart3
+    3300012: suineiding_MeshPart4
+    3300014: jinggusuineiding:gugge
+    3300016: jinggusuineiding:jinggusuineiding:Mesh
+    3300018: jinggusuineiding:jinggusuineiding:Mesh5
+    3300020: jinggusuineiding:jinggusuineiding:object_1
+    3300022: jinggusuineiding:jinggusuineiding:object_5
+    3300024: jinggusuineiding:jinggusuineiding:object_6
+    3300026: jinggusuineiding:jinggusuineiding:object_7
+    3300028: jinggusuineiding:jinggusuineiding:object_8
+    3300030: jinggusuineiding:object_1
+    3300032: jinggusuineiding:polySurface1
+    3300034: jinggusuineiding:polySurface2
+    3300036: object_1
+    4300000: suineiding_MeshPart0
+    4300002: suineiding_MeshPart1
+    4300004: suineiding_MeshPart2
+    4300006: suineiding_MeshPart3
+    4300008: suineiding_MeshPart4
+    4300010: gugge
+    4300012: gugge1
+    4300014: jinggusuineiding:gugge
+    4300016: jinggusuineiding:jinggusuineiding:Mesh
+    4300018: jinggusuineiding:jinggusuineiding:Mesh5
+    4300020: jinggusuineiding:jinggusuineiding:object_1
+    4300022: jinggusuineiding:jinggusuineiding:object_5
+    4300024: jinggusuineiding:jinggusuineiding:object_6
+    4300026: jinggusuineiding:jinggusuineiding:object_7
+    4300028: jinggusuineiding:jinggusuineiding:object_8
+    4300030: jinggusuineiding:object_1
+    4300032: jinggusuineiding:polySurface1
+    4300034: jinggusuineiding:polySurface2
+    4300036: object_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
